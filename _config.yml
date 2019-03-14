@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco André Echeverria"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineering student"
   location         : "Quebec, CA"
   email            :
