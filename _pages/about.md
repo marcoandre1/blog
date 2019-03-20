@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/etsyBanner.png"
+  image: "/assets/images/about.png"
 ---
 
-Software engineer student trying to learn to make a website using jekyll.
+Software engineer student trying to make a blog using jekyll.
