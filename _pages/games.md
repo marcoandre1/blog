@@ -2,7 +2,7 @@
 title: "Games"
 permalink: /games/
 header:
-  image: "/assets/images/science.png"
+  image: "/assets/images/games.png"
 ---
 
 # Games
